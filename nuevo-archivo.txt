@@ -1,1 +1,7 @@
-hola 
+Hola
+
+Qué necesito para terminar mi paquete crypto:
+  - Esperar a que me respondan los de thirdweb
+  - Hacer pruebas locales en Unity
+  - Hacer interfases para mis contratos en Solidiyu
+
